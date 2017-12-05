@@ -1,7 +1,7 @@
 RaspberryPi
 ===========
 <br />
-Raspberry Pi, Raspberry Pi 2 & Raspberry Pi 3 Bare Metal Code by krom (Peter Lemon).<br />
+Raspberry Pi, Raspberry Pi 2 & Raspberry Pi 3 Bare Metal Code by Alireza.<br />
 <br />
 All code compiles out of box with the FASMARM assembler by revolution:<br />
 http://arm.flatassembler.net<br />
